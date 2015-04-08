@@ -1,5 +1,5 @@
 /*!
- *  @file       MIDI.cpp
+ *  @file       laser-harp.cpp
  *  Project     Arduino MIDI Library
  *  @brief      MIDI Library for the Arduino
  *  @version    4.2
@@ -21,7 +21,7 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "MIDI.h"
+#include "laser-harp.h"
 
 // -----------------------------------------------------------------------------
 
