@@ -1,5 +1,5 @@
 /*!
- *  @file       MIDI.h
+ *  @file       laser-harp.h
  *  Project     Arduino MIDI Library
  *  @brief      MIDI Library for the Arduino
  *  @version    4.2
